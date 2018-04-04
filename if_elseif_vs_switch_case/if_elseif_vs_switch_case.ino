@@ -9,11 +9,11 @@ void setup() {
 
 void loop() {
 
-  if (x >= 33) {
-    x = 1;
-  } else {
-    x++;
+  if (x > 32) {
+    x = 0;
   }
+  
+  x++;
 
 //1.32MHz  
     if(x = 1){
