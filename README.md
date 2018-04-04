@@ -4,5 +4,5 @@ Arduino Megaでは、if/else ifとswitch/caseのどちらが速いのかを実�
 Arduino Mega pin 13 -- Oscilloscope  
   
 Result  
-if/else if:1.32MHz  
-switch/case :312kHz
+if/else if:2.674MHz  
+switch/case :458kHz
